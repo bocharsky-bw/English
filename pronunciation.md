@@ -61,7 +61,9 @@
 | **ʊə**    | t**ou**r |
 | **əɪ**    | n**oi**se |
 
-[Phonemic chart][1]
+## Links
+
+* [British Council phonemic chart][1]
 
 
-[1]: https://www.teachingenglish.org.uk/article/phonemic-chart
+[1]: https://www.teachingenglish.org.uk/sites/teacheng/files/TEphonemic_GreyBlue2_0.swf
