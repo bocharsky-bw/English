@@ -31,7 +31,7 @@
 | **j**     | **y**ellow |
 | **w**     | **w**arm |
 
-### Vowels and Diphthongs
+### Vowels
 
 | Sound     | Examples  |
 | --------- | --------- |
@@ -47,6 +47,10 @@
 | **ʌ**     | b**u**t |
 | **ɜ:**    | b**i**rd |
 | **ə**     | broth**e**r |
+
+### Diphthongs
+| Sound     | Examples  |
+| --------- | --------- |
 | **eɪ**    | gr**ey** |
 | **əʊ**    | g**o**ld |
 | **aɪ**    | b**y** |
