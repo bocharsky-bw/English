@@ -59,6 +59,7 @@
 | **ɪə**    | h**ere** |
 | **eə**    | h**ai**r |
 | **ʊə**    | t**ou**r |
+| **əɪ**    | n**oi**se |
 
 [Phonemic chart][1]
 
