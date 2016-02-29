@@ -62,3 +62,29 @@
 | lose             | lost             | lost             |
 | pay              | paid             | paid             |
 | put              | put              | put              |
+| read */ri:d/*    | read */red/*     | read */red/*     |
+| ride             | rode             | ridden           |
+| ring             | rang             | rung             |
+| rise             | rose             | risen            |
+| run              | ran              | run              |
+| say              | said             | said             |
+| see              | saw              | seen             |
+| sell             | sold             | sold             |
+| send             | sent             | sent             |
+| set              | set              | set              |
+| shake            | shooke           | shaken           |
+| shine            | shone            | shone            |
+| shoot            | shot             | shot             |
+| show             | showed           | shown            |
+| shut             | shut             | shut             |
+| sing             | sang             | sung             |
+| sink             | sank             | sunk             |
+| sit              | sat              | sat              |
+| sleep            | slept            | slept            |
+| slide            | slid             | slid             |
+| smell            | smelled / smelt  | smelled / smelt  |
+| speak            | spoke            | spoken           |
+| spend            | spent            | spent            |
+| spill            | spilled / spilt  | spilled / spilt  |
+| spoil            | spoiled / spoilt | spoiled / spoilt |
+| stand            | stood            | stood            |
