@@ -49,6 +49,7 @@
 | **ə**     | broth**e**r |
 
 ### Diphthongs
+
 | Sound     | Examples  |
 | --------- | --------- |
 | **eɪ**    | gr**ey** |
@@ -60,6 +61,22 @@
 | **eə**    | h**ai**r |
 | **ʊə**    | t**ou**r |
 | **əɪ**    | n**oi**se |
+
+### Sound-spelling correspondences
+
+| Sound     | Spelling  | Examples  |
+| --------- | --------- | --------- |
+| /ɪ/       | **i**     | th**i**s, l**i**sten |
+|           | **y**     | g**y**m, t**y**pical |
+|           | **ui**    | b**ui**ld, g**ui**tar |
+|           | **e**     | pr**e**tty |
+| /i:/      | **ee**    | gr**ee**n, sl**ee**p |
+|           | **ie**    | n**ie**ce, bel**ie**ve |
+|           | **ea**    | r**ea**d, t**ea**cher |
+|           | **e**     | th**e**se, compl**e**te |
+|           | **ey**    | k**ey**, mon**ey** |
+|           | **ei**    | rec**ei**pt, rec**ei**ve |
+|           | **i**     | pol**i**ce |
 
 ## Links
 
