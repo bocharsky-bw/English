@@ -88,3 +88,17 @@
 | spill            | spilled / spilt  | spilled / spilt  |
 | spoil            | spoiled / spoilt | spoiled / spoilt |
 | stand            | stood            | stood            |
+| steal            | stole            | stolen           |
+| stick            | stuck            | stuck            |
+| swim             | swam             | swum             |
+| take             | took             | taken            |
+| teach            | taught           | taught           |
+| tear             | tore             | torn             |
+| tell             | told             | told             |
+| think            | thought          | thought          |
+| throw            | threw            | thrown           |
+| understand       | understood       | understood       |
+| wake             | woke             | woken            |
+| wear             | wore             | worn             |
+| win              | won              | won              |
+| write            | wrote            | written          |
