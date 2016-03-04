@@ -77,16 +77,16 @@
 |           | **ey**    | k**ey**, mon**ey** |
 |           | **ei**    | rec**ei**pt, rec**ei**ve |
 |           | **i**     | pol**i**ce |
-| **æ**     | **a**     | c**a**n, p**a**sta |
-| **ɑ:**    | **a**     | c**a**n't, d**a**nce * |
+| /æ/       | **a**     | c**a**n, p**a**sta |
+| /ɑ:/      | **a**     | c**a**n't, d**a**nce * |
 |           | **ar**    | sc**ar**f, b**ar**gain |
 |           | **al**    | h**al**f |
 |           | **au**    | **au**nt, l**au**gh |
 |           | **ea**    | h**ea**rt |
-| **ʌ**     | **u**     | f**u**n, h**u**sband |
+| /ʌ/       | **u**     | f**u**n, h**u**sband |
 |           | **o**     | s**o**me, m**o**ther |
 |           | **ou**    | c**ou**sin, d**ou**ble |
-| **ɒ**     | **o**     | h**o**t, p**o**cket |
+| /ɒ/       | **o**     | h**o**t, p**o**cket |
 |           | **a**     | w**a**tch, w**a**nt |
 
 \* In American English the sound in words like *can't* and *dance* is the shorter
